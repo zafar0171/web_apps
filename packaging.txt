@@ -1,0 +1,15 @@
+pacakging 
+
+
+Setup and other frameworks for
+
+
+
+Getting started with,
+creating virtual environemnt,
+MANIFEST.in,
+and setup.py file.
+
+
+Working With Python setup tools
+
