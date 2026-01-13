@@ -9,3 +9,13 @@ Argparse Frameworks
 
 Click Framework
 
+
+
+
+#Build in cloud 9, push it ecr and then use app runner for deployment and cloud shell for interacting.
+
+#.NET
+
+
+var builder = WebApplication.CreateBuilder(args);
+var app =builder.Build();
